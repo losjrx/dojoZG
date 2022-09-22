@@ -1,6 +1,6 @@
 # Aprimorar o Controlador de Portão de Garagem
 
-> O uso de uma classe Teste facilitou o desenvolvimento do código, tornando mais claro o desenvolvimento da lógica e tornando prática e fácil a sua organização (colocando BDD e TDD).
+> O uso de uma classe Teste facilitou o desenvolvimento do código, tornando mais claro o desenvolvimento da lógica e tornando prática e fácil a sua organização (colocando BDD e TDD em prática).
 
 ## Comandos de entrada:
 
